@@ -30,15 +30,15 @@
     {
         "remote":       "github",
         "account":      "Team-Hydra",
-        "repository":   "Team-Hydra/linaro-arm-cortex-a8",
+        "repository":   "linaro-arm-cortex-a8",
         "target_path":  "prebuilt/linux-x86/toolchain/linaro-arm-cortex-a8",
-        "revision":     "cm-10.2"
+        "revision":     "cm-10.1"
     },
     {
         "remote":       "github",
         "account":      "Team-Hydra",
-        "repository":   "Team-Hydra/linaro",
+        "repository":   "linaro",
         "target_path":  "prebuilt/linux-x86/toolchain/linaro",
-        "revision":     "cm-10.2"
+        "revision":     "cm-10.1"
     }
 ]
