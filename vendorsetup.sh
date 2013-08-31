@@ -61,6 +61,8 @@ add_lunch_combo pac_toro-userdebug
 add_lunch_combo pac_toroplus-userdebug
 # HTC Rezound
 add_lunch_combo pac_vigor-userdebug
+# HTC Sensation
+add_lunch_combo pac_pyramid-userdebug
 # HTC Shooter
 add_lunch_combo pac_shooter-userdebug
 add_lunch_combo pac_shootervm-userdebug

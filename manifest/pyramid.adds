@@ -1,0 +1,30 @@
+[
+    {
+        "remote":       "github",
+        "account":      "Team-Hydra",
+        "repository":   "android_hardware_qcom_display-legacy",
+        "target_path":  "hardware/qcom/display-legacy",
+        "revision":     "cm-10.2"
+    },
+    {
+        "remote":       "github",
+        "account":      "Team-Hydra",
+        "repository":   "android_hardware_qcom_media-legacy",
+        "target_path":  "hardware/qcom/media-legacy",
+        "revision":     "cm-10.2"
+    },
+    {
+        "remote":       "github",
+        "account":      "Team-Hydra",
+        "repository":   "prebuilts_gcc_linux-x86_arm_arm-linux-androideabi-4.7",
+        "target_path":  "prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.7",
+        "revision":     "cm-10.2"
+    },
+    {
+        "remote":       "github",
+        "account":      "Team-Hydra",
+        "repository":   "prebuilts_gcc_linux-x86_arm_arm-eabi-4.7",
+        "target_path":  "prebuilts/gcc/linux-x86/arm/arm-eabi-4.7",
+        "revision":     "cm-10.2"
+    }
+]
